@@ -1,0 +1,80 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "sudoku",
+      "request": "launch",
+      "mainClass": "sudoku",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "type": "java",
+      "name": "grid",
+      "request": "launch",
+      "mainClass": "grid",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "type": "java",
+      "name": "NQueens",
+      "request": "launch",
+      "mainClass": "NQueens",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "type": "java",
+      "name": "prime",
+      "request": "launch",
+      "mainClass": "prime",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "type": "java",
+      "name": "permuttation",
+      "request": "launch",
+      "mainClass": "permuttation",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "type": "java",
+      "name": "subset",
+      "request": "launch",
+      "mainClass": "subset",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "type": "java",
+      "name": "mnbiujnk",
+      "request": "launch",
+      "mainClass": "mnbiujnk",
+      "projectName": "22)BackTracking_26247903"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Dell/Music/b)VA/22)BackTracking",
+      "program": "c:/Users/Dell/Music/b)VA/22)BackTracking/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

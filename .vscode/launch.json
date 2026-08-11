@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "Kadane",
+            "projectName": "b)VA_8e648ae2"
+        },
+        {
+            "type": "java",
+            "name": "direction",
+            "request": "launch",
+            "mainClass": "direction",
+            "projectName": "b)VA_8e648ae2"
+        },
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "Kadane",
+            "projectName": "b)VA_7a9981cb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Argument",
+            "request": "launch",
+            "mainClass": "Argument",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "BuyAndSellsStock",
+            "request": "launch",
+            "mainClass": "BuyAndSellsStock",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "Kadane",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "Large",
+            "request": "launch",
+            "mainClass": "Large",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "Linear",
+            "request": "launch",
+            "mainClass": "Linear",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "Negativekadane",
+            "request": "launch",
+            "mainClass": "Negativekadane",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "Prefix",
+            "request": "launch",
+            "mainClass": "Prefix",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "ThreeSum",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "binary",
+            "request": "launch",
+            "mainClass": "binary",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "kadane",
+            "request": "launch",
+            "mainClass": "kadane",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "maxsubarraysum",
+            "request": "launch",
+            "mainClass": "maxsubarraysum",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pair",
+            "request": "launch",
+            "mainClass": "pair",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "pattern8",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "pattern9",
+            "request": "launch",
+            "mainClass": "pattern9",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "solution1",
+            "request": "launch",
+            "mainClass": "solution1",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "subarrays",
+            "request": "launch",
+            "mainClass": "subarrays",
+            "projectName": "VA_faccbdc4"
+        },
+        {
+            "type": "java",
+            "name": "trappedRainwater",
+            "request": "launch",
+            "mainClass": "trappedRainwater",
+            "projectName": "VA_faccbdc4"
+        }
+    ]
+}
