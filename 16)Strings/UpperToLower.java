@@ -9,7 +9,7 @@ Uppercase : using java inbuild function (ch2 = character.toUpperCase(ch);
 //     public static String toUpperCase(String str) {  
 //         StringBuilder sb = new StringBuilder("");   
         
-//         char ch = Character.toUpperCase(str.charAt(0));  // char ko uppercase convert krnae karna gae                 
+//         char ch = Character.toUpperCase(str.charAt(0));  // char ko uppercase convert krnae karna gae                  
 //         sb.append(ch);
 
 //         for(int i=1; i<str.length(); i++) {
