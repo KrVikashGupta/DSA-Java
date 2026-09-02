@@ -6,7 +6,7 @@ Uppercase : using java inbuild function (ch2 = character.toUpperCase(ch);
  
 //import java.util.*;
 // public class UpperToLower {
-//     public static String toUpperCase(String str) {
+//     public static String toUpperCase(String str) {  
 //         StringBuilder sb = new StringBuilder(""); 
         
 //         char ch = Character.toUpperCase(str.charAt(0));  // char ko uppercase convert krnae karna gae    
