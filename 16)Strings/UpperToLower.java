@@ -3,7 +3,7 @@ case: hi, i am vikash o/p : Hi, I Am Vikash.
 Uppercase : using java inbuild function (ch2 = character.toUpperCase(ch); 
  */
 
-
+ 
 //import java.util.*;
 
 // public class UpperToLower {
