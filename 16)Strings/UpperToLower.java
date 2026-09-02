@@ -1,8 +1,9 @@
 /* For a given string convert each the first letter of each word to uppercase"
 case: hi, i am vikash o/p : Hi, I Am Vikash.
 Uppercase : using java inbuild function (ch2 = character.toUpperCase(ch);
- 
  */
+
+
 //import java.util.*;
 
 // public class UpperToLower {
