@@ -34,6 +34,7 @@ Uppercase : using java inbuild function (ch2 = character.toUpperCase(ch);
     
 // }
 
+
 import java.util.*;
 class Solution {
 public class UpperToLower {
@@ -47,7 +48,7 @@ public class UpperToLower {
                 i++;
                 sb.append(Character.toUpperCase(str.charAt(i)));
 
-            }
+            } 
             else {
                 sb.append(str.charAt(i));
             }
