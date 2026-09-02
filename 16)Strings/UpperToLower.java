@@ -46,11 +46,11 @@ public class UpperToLower {
             if(str.charAt(i) == ' ' && i < str.length() - 1) {
                 sb.append(str.charAt(i));
                 i++;
-                sb.append(Character.toUpperCase(str.charAt(i)));
+                sb.append(Character.toUpperCase(str.charAt(i))); 
 
             } 
             else {
-                sb.append(str.charAt(i));
+                sb.append(str.charAt(i));     
             }
 
         }
