@@ -5,7 +5,6 @@ Uppercase : using java inbuild function (ch2 = character.toUpperCase(ch);
 
  
 //import java.util.*;
-
 // public class UpperToLower {
 //     public static String toUpperCase(String str) {
 //         StringBuilder sb = new StringBuilder("");
